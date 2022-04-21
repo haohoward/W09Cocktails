@@ -22,7 +22,7 @@ const AppProvider = ({ children }) => {
           return {
             id: idDrink,
             name: strDrink,
-            img: strDrinkThumb,
+            image: strDrinkThumb,
             info: strAlcoholic,
             glass: strGlass,
           };
