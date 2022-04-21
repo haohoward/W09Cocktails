@@ -5,7 +5,7 @@ const About = () => {
     <section className='section about-section'>
     <h1 className='section title'> About us</h1>
     <p>
-      sglpepwpppkgopwmmp
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos odit eius repellendus saepe harum! Necessitatibus cumque repellendus vitae fuga officia. Aperiam animi quidem expedita earum illum non, ullam, voluptates, aut eius saepe rem adipisci aliquam. Magni neque cumque harum aliquid.
     </p>
   </section>
   )
